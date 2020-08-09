@@ -1,4 +1,4 @@
-# kotlin-ds
+# kotlin-DS
 Kotlin for Data Science
 
 
